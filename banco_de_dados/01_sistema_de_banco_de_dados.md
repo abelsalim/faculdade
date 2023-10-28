@@ -16,23 +16,22 @@ sistema.'
 fonte de dados ---- middleware ---- aplicação web
 
 ### Tabelas
-atributo = colunas
-valores dos atributos = conteúdo
-tipos = int, char, boolean
-esquema = conjunto de atributos de um tabela
-tupla = linha de uma tabela
-instância = conjunto de linhas de uma tabela
-campo = encontro da linha com a coluna
-valor = conteúdo de um campo
-nulo = ausência de valor em um campo
 
-
-chave primária = id da tabela (provê a integridade de chave primária)
-chave primária composta = quando utiliza o valor de duas tabelas
-chave candidata = quando um campos é único e pode se utilizado como pk
-
-chave estrangeira = provê a ligação entre as tabelas relacionada
-
+| Descrição | Significado |
+| --------- | ----------- |
+| Atributo | colunas |
+| Valores dos atributos | conteúdo |
+| Tipos | int, char, boolean |
+| Esquema | conjunto de atributos de um tabela |
+| Tupla | linha de uma tabela |
+| Instância | conjunto de linhas de uma tabela |
+| Campo | encontro da linha com a coluna |
+| Valor | conteúdo de um campo |
+| Nulo | ausência de valor em um campo |
+| Chave primária | id da tabela (provê a integridade de chave primária) |
+| Chave primária composta | quando utiliza o valor de duas tabelas |
+| Chave candidata | quando um campos é único e pode se utilizado como pk |
+| Chave estrangeira | provê a ligação entre as tabelas relacionada |
 
 ### Diferenças entre sistema de arquivos e sistema de banco de dados
 
