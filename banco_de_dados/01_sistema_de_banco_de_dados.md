@@ -37,7 +37,7 @@ fonte de dados ---- middleware ---- aplicação web
 
 #### Níveis de esquemas
 
-- O __nível externo__: Descreve como os dados são armazenados no computador
+- O __nível interno__: Descreve como os dados são armazenados no computador
 como: tipos de arquivos, formatos e ordenação de registros e caminhos de
 acesso.
 
@@ -45,7 +45,7 @@ acesso.
 implementação dos bancos de dados, ocultando detalhes de como os dados são
 armazenados e acessados no disco.
 
-- O __nível interno__: São aqueles que representam a visão dos dados do ponto
+- O __nível externo__: São aqueles que representam a visão dos dados do ponto
 de vista do usuário final, no nível de abstração mais próximo do mundo real.
 
 
