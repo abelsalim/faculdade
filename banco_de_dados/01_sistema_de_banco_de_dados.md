@@ -116,7 +116,7 @@ arquivos de acordo com sua estrutura, por sua vez, o SGBD de uma forma simples
 pode ser resumido ao software para processar consultas e/ou programas e outro
 software para acessar os dados (metadados e o próprio banco de dados).
 
-<p align="center"> <img src="./img/01.png" height="450"> </p>
+<p align="center"> <img src="./img/01_01.png" height="450"> </p>
 
 > Nota: __Metadados__ são denominados como o esquema do banco de dados, onde o
 > mesmo é estruturado de acordo com o modelo lógico de implementação do banco.
@@ -132,7 +132,7 @@ SGBD, sendo a parte superior correspondente ao processamento das consultas e
 aplicações, e a parte inferior ao acesso a metadados e dados armazenados
 (a base de dados).
 
-<p align="center"> <img src="./img/02.png" height="450"> </p>
+<p align="center"> <img src="./img/01_02.png" height="450"> </p>
 
 > Nota: As __linhas tracejadas__ denotam fluxo de controle, enquanto as
 > __linhas cheias__ representam fluxo de dados.
